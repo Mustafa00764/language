@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="Arab" >السلام عليك</string>
+    <string name="Frans" >فرنسي</string>
+    <string name="German" >ألمانية</string>
+    <string name="lang" >لغة</string>
+    <string name="koreanisch" >الكورية</string>
+    <string name="japanische_sprache" >اليابانية</string>
+    <string name="hi" >السلام عليك</string>
+
+</resources>

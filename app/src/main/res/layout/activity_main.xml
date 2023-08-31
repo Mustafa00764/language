@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:text="@string/hi"/>
+    <Button
+        android:id="@+id/bGerman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/German"/>
+
+    <Button
+        android:id="@+id/bArab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Arab" />
+
+    <Button
+        android:id="@+id/bFrans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Frans"/>
+
+
+    <Button
+        android:id="@+id/bkor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/koreanisch"/>
+    <Button
+        android:id="@+id/bjapan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/japanische_sprache"/>
+
+</LinearLayout>

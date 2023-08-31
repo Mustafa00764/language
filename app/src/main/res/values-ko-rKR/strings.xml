@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="Arab" >아라비아 말</string>
+    <string name="Frans" >프랑스 국민</string>
+    <string name="German" >독일 사람</string>
+    <string name="lang" >언어</string>
+    <string name="koreanisch" >한국인</string>
+    <string name="japanische_sprache" >일본어</string>
+    <string name="hi" >안녕하세요</string>
+</resources>
